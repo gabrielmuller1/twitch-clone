@@ -5,7 +5,7 @@ UI Clone (Mobile) - Twitch App
 <p align="center">Twitch App Homepage UI clone for study purposes.</p>
 
 <p align="center">
-  <a href="https://github.com/gabrielmuller1">
+  <a href="https://github.com/gabrielmuller1.png">
     <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-twitch-app?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
   </a>
 </p>
